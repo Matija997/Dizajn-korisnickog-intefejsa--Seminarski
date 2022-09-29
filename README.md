@@ -1,4 +1,4 @@
-# Dizajn-korisnickog-intefejsa--Seminarski
+# Dizajn-korisnickog-intefejsa-Seminarski
 UI/UX Dizajn za mobilnu aplikaciju za online teretanu u Figmi
 
 https://www.figma.com/file/Z94n3ZV9FdxaZ70HjfBcTb/Android?node-id=0%3A1
